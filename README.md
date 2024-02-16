@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Mr-Cool-in-Git
-- 👀 I’m PhD Student ITMO University
+- 👀 I’m a PhD Student of ITMO University
 - 🌱 I’m currently working with LLAMA-2
 - 📫 How to reach me @mrCoolTg - telegram
 
