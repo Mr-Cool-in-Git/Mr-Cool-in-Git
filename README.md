@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Mr-Cool-in-Git
 - 👀 I’m interested in Data Science
-- 🌱 I’m currently learning LLAMA-2
+- 🌱 I’m currently working with LLAMA-2
 - 📫 How to reach me @mrCoolTg - telegram
 
 <!---
