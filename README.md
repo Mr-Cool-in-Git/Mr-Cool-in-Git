@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Mr-Cool-in-Git
 - 👀 I’m a PhD Student of ITMO University
-- 🌱 I’m currently working with LLAMA-3.2
+- 🌱 I’m currently working with ChatGPT
 - 📫 How to reach me @mrCoolTg - telegram
 
 <!---
