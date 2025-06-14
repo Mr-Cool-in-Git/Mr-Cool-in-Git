@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Nikita.
 - 👀 I’m a PhD Student of ITMO University
-- 🌱 I’m currently working with some GPT
+- 🌱 I’m currently working with some LLMs
 - 📫 How to reach me @mrCoolTg - telegram
 
 <!---
