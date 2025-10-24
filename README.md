@@ -1,7 +1,7 @@
 <h1>Hi, I’m Nikita 👋</h1>
 
 - 👀 I’m a PhD Student of ITMO University
-- 👨🏻‍💻 I’m currently working with some LLMs in X5 Digital and ITMO University
+- 👨🏻‍💻 I’m currently working with some LLMs in X5 Digital
 ___
 
 [<img height="30" src="https://img.shields.io/badge/-Telegram-26A5E4?logo=telegram&logoColor=white">](https://t.me/mrCoolTg)
