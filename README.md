@@ -1,9 +1,9 @@
-- 👋 Hi, I’m Nikita.
-- 👀 I’m a PhD Student of ITMO University
-- 🌱 I’m currently working with some LLMs
-- 📫 How to reach me @mrCoolTg - telegram
+<h1>Hi, I’m Nikita 👋</h1>
 
-<!---
-Mr-Cool-in-Git/Mr-Cool-in-Git is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- 👀 I’m a PhD Student of ITMO University
+- 👨🏻‍💻 I’m currently working with some LLMs in X5 Digital and ITMO University
+___
+
+[<img height="30" src="https://img.shields.io/badge/-Telegram-26A5E4?logo=telegram&logoColor=white">](https://t.me/mrCoolTg)
+[<img height="30" src="https://img.shields.io/badge/-Habr-65A3BE?logo=habr&logoColor=white">](https://habr.com/ru/users/mrcoolinhabr)
+[<img height="30" src="https://img.shields.io/badge/-ORCID-A6CE39?logo=orcid&logoColor=white">](https://orcid.org/0000-0002-3952-6080)
